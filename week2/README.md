@@ -1,4 +1,6 @@
-# Outline
+# Section #2
+
+## Outline
 
 * [Debugging](#Debugging)
 * [Arrays](#Arrays)
